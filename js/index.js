@@ -15,5 +15,3 @@ function getSummDiagonals(matrix) {
     return primaryDiagonal + secondaryDiagonal;
 }
 console.log(getSummDiagonals(matrix))
-
-// Navbar animation in js?
